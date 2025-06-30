@@ -790,7 +790,7 @@ useEffect(() => {
             18 June 2025
           </p>
           <h3 className="text-[1.4rem] sm:text-[2.2rem] font-light text-[#555] leading-snug tracking-tight">
-            I&A International unveils a flagship boutique in central Tirana
+            I&A International unveils a flagship boutique in central Tirana's
           </h3>
         </div>
       </SwiperSlide>
