@@ -857,7 +857,7 @@ const [isVisible, setIsVisible] = useState(false);
       <div>
         <div className="w-full h-48 sm:h-56 overflow-hidden rounded-md shadow-md mb-3 sm:mb-4">
           <img
-            src="/img/location-global.jpg"
+            src="/img/location-global.png"
             alt="Global Brand Presence"
             className="w-full h-full object-cover"
           />
